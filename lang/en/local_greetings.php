@@ -35,3 +35,5 @@ $string['postedby'] = 'Posted by {$a}.';
 $string['greetings:viewmessages'] = 'View messages on the Greetings wall';
 $string['greetings:postmessages'] = 'Post a new message on the Greetings wall';
 $string['greetings:deleteanymessage'] = 'Delete any message on the Greetings wall';
+$string['messagecardbgcolor'] = 'Message card color';
+$string['messagecardbgcolordesc'] = 'Background color of the message card';
